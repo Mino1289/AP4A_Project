@@ -1,0 +1,12 @@
+*.o
+main
+file.txt
+hw
+TODO
+test
+uml*
+*.pdf
+*.png
+*.html
+*r.md
+*.zip
